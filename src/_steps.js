@@ -22,5 +22,11 @@ Setup the Provider
 ---------------------
 Display Data
 ---------------------
-15.
+
+---------------------------
+Add a New Sign In Method
+---------------------------
+1. enable the sign in method
+2. create github, twitter, fb etc. app create
+3. get client ID and Secret key
 */
